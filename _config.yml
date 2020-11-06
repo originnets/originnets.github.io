@@ -1,0 +1,123 @@
+# ---------------- #
+#   Main Configs   #
+# ---------------- #
+baseurl:
+url: https://deepnum.com
+date_format: "ordinal"
+title: OriginNnet
+subtitle: "摔倒了,爬起来就好"
+description: "Dreams"
+keywords: "Ing.."
+favicon: /favicon.ico
+timezone: Asia/Shanghai
+encoding: "utf-8"
+source_code: https://github.com/origin-net/origin-net.github.io
+side_bar_repo_limit: 5
+
+# ---------------- #
+#      Author      #
+# ---------------- #
+author: "Ing.."
+organization: DeepNum, Inc.
+organization_url: http://deepnum.com
+location: ShenZhen, China
+email: "Ing.."
+
+# ---------------- #
+#    Navigation    #
+# ---------------- #
+navs:
+  -
+    href: /
+    label: 首页
+
+  -
+    href: /categories/
+    label: 分类
+
+  -
+    href: /wiki/
+    label: 维基
+
+  -
+    href: /open-source/
+    label: 开源
+
+  -
+    href: /links/
+    label: 链接
+
+  -
+    href: /about/
+    label: 关于
+
+# ---------------- #
+#       RSS        #
+# ---------------- #
+subscribe_rss: /feed.xml
+
+# ---------------- #
+#      Jekyll      #
+# ---------------- #
+markdown: kramdown
+kramdown:
+    input: GFM
+highlighter: rouge
+paginate: 8
+lsi: false
+quiet: false
+excerpt_separator: "\n\n"
+permalink: /:year/:month/:day/:title/
+gems:
+    - rouge
+#    - jekyll-html-pipeline
+    - jekyll-paginate
+    - jekyll-feed
+    - jemoji
+#     - jekyll-mentions
+    - jekyll-github-metadata
+collections:
+    wiki:
+        output: true
+        permalink: /wiki/:path/
+
+# ---------------- #
+#      Socials     #
+# ---------------- #
+github_username: rigin-net
+#douban_username: OriginNnet
+#facebook_username: OriginNnet
+#weibo_username: OriginNnet
+zhihu_username: Ing..
+#twitter_username: origin-net
+
+# ---------------- #
+#      Comments    #
+# ---------------- #
+# support provider: disqus, duoshuo
+comments_provider: disqus
+# !!!重要!!! 请修改下面两个用户名为你自己申请的
+# !!!Important!!! Please modify usernames below to yours
+duoshuo_username: OriginNnet
+disqus_username: OriginNnet
+# 在使用 disqus 的时候可点击显示多说评论框
+lazy_load_duoshuo: true
+
+# ---------------- #
+#    Analytics     #
+# ---------------- #
+#google:
+ #   analytics_id: UA-85602329-1
+
+# ---------------- #
+#      Datas       #
+# ---------------- #
+skill_software_keywords: [Linux, shell, Docker,Python]
+skill_mobile_app_keywords: [Linux]
+#skill_windows_keywords: []
+
+# ---------------- #
+# Github metadata  #
+# ---------------- #
+repository: rigin-net/rigin-net.github.io
+
