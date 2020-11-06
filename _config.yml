@@ -79,7 +79,7 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: rigin-net
+github_username: origin-net
 #douban_username: OriginNet
 #facebook_username: OriginNet
 #weibo_username: OriginNet
@@ -114,5 +114,5 @@ skill_mobile_app_keywords: [Linux]
 # ---------------- #
 # Github metadata  #
 # ---------------- #
-repository: rigin-net/rigin-net.github.io
+repository: origin-net/origin-net.github.io
 
