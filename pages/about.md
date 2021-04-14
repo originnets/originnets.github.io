@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: Your future depends on your dreams
-keywords: "OriginNet"
+keywords: "Youik"
 comments: true
 menu: 关于
 permalink: /about/

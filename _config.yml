@@ -11,7 +11,7 @@ keywords: "Ing.."
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/origin-net/origin-net.github.io
+source_code: https://github.com/Youik/youik.github.io
 side_bar_repo_limit: 5
 
 # ---------------- #
@@ -79,12 +79,12 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: origin-net
+github_username: youik
 #douban_username: OriginNet
 #facebook_username: OriginNet
 #weibo_username: OriginNet
 zhihu_username: Ing..
-#twitter_username: origin-net
+#twitter_username: youik
 
 # ---------------- #
 #      Comments    #
@@ -107,12 +107,12 @@ lazy_load_duoshuo: true
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Linux, shell, Docker,Python]
+skill_software_keywords: [Linux, Shell, Docker, Python, Golang, Kubernetes]
 skill_mobile_app_keywords: [Linux]
 #skill_windows_keywords: []
 
 # ---------------- #
 # Github metadata  #
 # ---------------- #
-repository: origin-net/origin-net.github.io
+repository: Youik/youik.github.io
 
