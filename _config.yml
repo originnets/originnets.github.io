@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://deepnum.com
+url: https://youik.cn
 date_format: "ordinal"
 title: Youik
 subtitle: "摔倒了,爬起来就好"
@@ -19,7 +19,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: "Ing.."
 organization: DeepNum, Inc.
-organization_url: http://deepnum.com
+organization_url: http://youik.cn
 location: ShenZhen, China
 email: "Ing.."
 
@@ -79,7 +79,7 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: youik
+github_username: Youik
 #douban_username: OriginNet
 #facebook_username: OriginNet
 #weibo_username: OriginNet
@@ -93,8 +93,8 @@ zhihu_username: Ing..
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: OriginNet
-disqus_username: OriginNet
+duoshuo_username: Youik
+disqus_username: Youik
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: true
 
@@ -114,5 +114,5 @@ skill_mobile_app_keywords: [Linux]
 # ---------------- #
 # Github metadata  #
 # ---------------- #
-repository: Youik/youik.github.io
+repository: Youik/Youik.github.io
 
