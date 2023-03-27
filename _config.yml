@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://youik.cn
+url: https://superii.me
 date_format: "ordinal"
 title: Youik
 subtitle: "摔倒了,爬起来就好"
@@ -11,15 +11,15 @@ keywords: "Ing.."
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/Youik/youik.github.io
+source_code: https://github.com/originnets/originnets.github.io
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
 author: "Ing.."
-organization: YOUIK, Inc.
-organization_url: http://youik.cn
+organization: SuperII, Inc.
+organization_url: http://superii.me
 location: ShenZhen, China
 email: "Ing.."
 
@@ -79,12 +79,12 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: Youik
+github_username: originnets
 #douban_username: OriginNet
 #facebook_username: OriginNet
 #weibo_username: OriginNet
 zhihu_username: Ing..
-#twitter_username: youik
+#twitter_username: originnets
 
 # ---------------- #
 #      Comments    #
@@ -93,8 +93,8 @@ zhihu_username: Ing..
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: Youik
-disqus_username: Youik
+duoshuo_username: originnets
+disqus_username: originnets
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: true
 
@@ -114,5 +114,5 @@ skill_mobile_app_keywords: [Linux]
 # ---------------- #
 # Github metadata  #
 # ---------------- #
-repository: Youik/Youik.github.io
+repository: originnets/originnets.github.io
 
